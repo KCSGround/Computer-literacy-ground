@@ -57,5 +57,3 @@ Click [here](https://www.naver.com/)
 ```js   <!-- 해당되는 코드에 맞게 표현 -->
 console.log('your message')
 ```
-
-
